@@ -33,9 +33,14 @@ docker run itsandy/java_project
 docker login
 ~~~
 
-## Docker Desktop pull in Docker Hub
+## Docker Desktop push in Docker Hub
 ~~~
-docker pull itsandy/java_project
+docker push itsandy/java_project
+~~~
+
+## Java Image URL
+~~~
+https://hub.docker.com/r/itsandy/java_project
 ~~~
 
 # RailWay
